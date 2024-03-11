@@ -13,3 +13,7 @@ h
 8src/main/java/org/example/builderDesignPattern/Mian.java,2\d\2d86502ef21610947a18ae8b5059d5a714151328
 h
 8src/main/java/org/example/builderDesignPattern/Main.java,4\1\41cbf4ca5c0a5035d549987d00dac28919c9cb26
+v
+Fsrc/main/java/org/example/prototypeDesignPatern/NetworkConnection.java,c\1\c17690196e47edea2d91ce48fb66563cd6a12385
+i
+9src/main/java/org/example/prototypeDesignPatern/Main.java,9\d\9daf3fb4b2f37c08711065abff61d5edc7b5085d
