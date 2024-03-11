@@ -1,14 +1,4 @@
 
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-W
-'src/main/java/org/example/Employee.java,9\f\9f049490270833ba92b2330d4db1a284e3e81dfa
-_
-/src/main/java/org/example/AndroidDeveloper.java,b\6\b62ff937572994af238b9608e49fce80f3cace13
-a
-1src/main/java/org/example/WebDeveloperSalary.java,b\9\b9e5344b2c0868eca22c576050e03ca885be9dec
-^
-.src/main/java/org/example/EmployeeFactory.java,0\a\0ac096752a6a96706e0ede65e740827c62475810
 t
 Dsrc/main/java/org/example/factoryDesignPattern/AndroidDeveloper.java,9\6\96479075490c132f95c2ff88047ece81f574d62b
 h
@@ -17,3 +7,9 @@ s
 Csrc/main/java/org/example/factoryDesignPattern/EmployeeFactory.java,a\b\ab1a993faddd14bbfd1e4dd62619235208929c23
 p
 @src/main/java/org/example/factoryDesignPattern/WebDeveloper.java,4\c\4cddf3278a2ea26ce3916cff06c4c7d01e4eb13a
+h
+8src/main/java/org/example/builderDesignPattern/User.java,9\8\986847c259f8e6fb134fa90319c402e4ec7bfe2d
+h
+8src/main/java/org/example/builderDesignPattern/Mian.java,2\d\2d86502ef21610947a18ae8b5059d5a714151328
+h
+8src/main/java/org/example/builderDesignPattern/Main.java,4\1\41cbf4ca5c0a5035d549987d00dac28919c9cb26

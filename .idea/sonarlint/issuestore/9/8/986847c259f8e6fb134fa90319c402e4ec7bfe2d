@@ -1,0 +1,6 @@
+
+Ÿ
+java:S1488R"\Immediately return this expression instead of assigning it to the temporary variable "user".(üÒ“«8©ÅÕõâ1J$6a5c1284-3ada-4ccb-be86-bf50483f1587
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¬ Ûúÿÿÿÿ8­ÅÕõâ1J$94c215f1-ba69-436b-b600-66aaae957161
+É
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û˜ıçûÿÿÿÿ8ĞÅÕõâ1J$f8c2ec65-0859-4ec9-96e9-d2e36fa8c1a2
