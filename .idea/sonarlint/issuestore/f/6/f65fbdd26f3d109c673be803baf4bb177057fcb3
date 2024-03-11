@@ -1,3 +1,8 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(ãüªî8ÛÎá÷â1J$6b212053-3628-4c61-aa23-43b3e6bdc8bf
-r	java:S106"+Replace this use of System.out by a logger.(ß¡õûÿÿÿÿ8Ï˜ã÷â1J$a33e6082-69cf-4ae4-92d1-7fd5ab453ead
+m	java:S106"+Replace this use of System.out by a logger.(ãüªî8ÛÎá÷â1J$5bdff546-5ef2-4b95-8fc6-78ef186a0232
+r	java:S106	"+Replace this use of System.out by a logger.(ß¡õûÿÿÿÿ8Ï˜ã÷â1J$63ecc1ac-3c1a-4774-9178-87460d1eb693
+m	java:S106"+Replace this use of System.out by a logger.(ÕÆâ8¯éé÷â1J$8bbb6830-7f94-404b-ba76-9dbb4a25b92e
+m	java:S106"+Replace this use of System.out by a logger.(õÌ¾8°éé÷â1J$8d6f26f4-400f-4b4c-a37a-79fcc32fea7f
+t
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÚáĞûúÿÿÿÿ8‡Ûë÷â1
+G	java:S106"+Replace this use of System.out by a logger.(ì‹Å€8‰Ûë÷â1
