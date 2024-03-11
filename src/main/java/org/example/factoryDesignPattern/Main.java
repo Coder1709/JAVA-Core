@@ -1,4 +1,7 @@
-package org.example;
+package org.example.factoryDesignPattern;
+
+import org.example.factoryDesignPattern.Employee;
+import org.example.factoryDesignPattern.EmployeeFactory;
 
 class main {
 

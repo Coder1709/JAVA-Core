@@ -9,3 +9,11 @@ a
 1src/main/java/org/example/WebDeveloperSalary.java,b\9\b9e5344b2c0868eca22c576050e03ca885be9dec
 ^
 .src/main/java/org/example/EmployeeFactory.java,0\a\0ac096752a6a96706e0ede65e740827c62475810
+t
+Dsrc/main/java/org/example/factoryDesignPattern/AndroidDeveloper.java,9\6\96479075490c132f95c2ff88047ece81f574d62b
+h
+8src/main/java/org/example/factoryDesignPattern/Main.java,5\9\59810716602bfd884331ce1a65e659d0bff9c28c
+s
+Csrc/main/java/org/example/factoryDesignPattern/EmployeeFactory.java,a\b\ab1a993faddd14bbfd1e4dd62619235208929c23
+p
+@src/main/java/org/example/factoryDesignPattern/WebDeveloper.java,4\c\4cddf3278a2ea26ce3916cff06c4c7d01e4eb13a
