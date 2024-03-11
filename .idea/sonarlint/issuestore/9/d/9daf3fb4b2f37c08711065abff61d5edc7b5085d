@@ -1,6 +1,8 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë×¸úÿÿÿÿ8¬ñçöâ1J$ab1c420d-a89e-458c-b1bd-ab98e60e4bf7
-r	java:S106"+Replace this use of System.out by a logger.(ª•“»şÿÿÿÿ8¿ñçöâ1J$119324b8-7649-48e7-8913-9179d655c4a6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë×¸úÿÿÿÿ8¬ñçöâ1J$2fc3b7d1-d14c-4564-a288-20af0295f93a
+z
+java:S1854"7Remove this useless assignment to local variable "nc2".(Àºêñ8€ø±÷â1J$670c87c2-cbfe-4885-8931-a40b5cff958b
+r	java:S106"+Replace this use of System.out by a logger.(ª•“»şÿÿÿÿ8¿ñçöâ1J$e78de088-5944-4bb7-8ee3-8ab3a20da0cc
 k
-java:S1481"(Remove this unused "nc2" local variable.(„çÀ8Âñçöâ1J$1d6a061a-3d10-4ca1-9cd1-ae5c8b86d948
-r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Çñçöâ1J$7b64d834-a803-4ae5-82a5-caeb072fd8e0
+java:S1481"(Remove this unused "nc2" local variable.(„çÀ8Âñçöâ1J$d69b86c6-5673-4a70-a7e0-390bf6695b9e
+r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Çñçöâ1J$a28c146f-96c4-4a52-b107-441940becaae

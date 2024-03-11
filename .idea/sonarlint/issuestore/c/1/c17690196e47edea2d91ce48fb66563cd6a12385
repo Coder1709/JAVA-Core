@@ -1,6 +1,6 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŽË×¸úÿÿÿÿJ$bf972a3e-40b3-4637-8fe3-08599998f2ed
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŽË×¸úÿÿÿÿJ$b71c3e9a-581b-4d3a-8940-b4c5df1092e4
 •
-java:S2975="SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8–­âöâ1J$629fe459-aebf-4bfc-8422-26fda061866f
+java:S2975="SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8–­âöâ1J$b3a9f1fa-4455-4330-b8b4-88a68f3b9bfe
 j
-java:S1185="(Remove this method to simply inherit it.(™”” 8—­âöâ1J$c3140c6a-7d67-4661-a687-09bcef4347e1
+java:S1185="(Remove this method to simply inherit it.(™”” 8—­âöâ1J$8b6a11f5-2911-46da-bef0-51ad412bbbe9
