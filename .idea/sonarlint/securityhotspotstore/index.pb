@@ -25,3 +25,7 @@ Z
 *src/main/java/org/example/lambda/dEMO.java,0\b\0b590d91b67a021ba8b328f26818e5441f75f10a
 Z
 *src/main/java/org/example/lambda/Demo.java,f\6\f65fbdd26f3d109c673be803baf4bb177057fcb3
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
