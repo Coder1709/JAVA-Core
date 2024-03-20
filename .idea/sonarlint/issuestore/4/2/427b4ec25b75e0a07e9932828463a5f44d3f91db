@@ -1,0 +1,11 @@
+
+p
+java:S3010"(Remove this assignment of "sharedArray".(¨–ΆΩώÿÿÿÿ8•ιε1J$4c47f8aa-35fd-474f-bd59-3a0bb8168ed3
+m	java:S106"+Replace this use of System.out by a logger.(α­ΊΊ8΅•ιε1J$6ad7aa7e-9e79-434a-984a-bbb49f629478
+x
+java:S2696"6Make the enclosing method "static" or remove this set.(‰Ψ88£•ιε1J$05e81742-f136-42bd-acbf-0f45d8c13c19
+m	java:S106"+Replace this use of System.out by a logger.(α­ΊΊ8£•ιε1J$67d36a4d-4c31-422f-8d72-c0266a4d731c
+΅
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8¦•ιε1J$4da6ed75-1a33-4267-9dc5-73bb74e059cf
+r	java:S106+"+Replace this use of System.out by a logger.(”ω΅ϊÿÿÿÿ8§•ιε1J$1d725a8d-9b8c-4b77-927c-62afa3c1e45a
+r	java:S106-"+Replace this use of System.out by a logger.(εΧρϋÿÿÿÿ8§•ιε1J$a6801026-6ae0-47dd-b43c-49b14663ef76

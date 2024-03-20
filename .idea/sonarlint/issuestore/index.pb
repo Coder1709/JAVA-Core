@@ -45,3 +45,7 @@ p
 @src/main/java/org/example/threads/assignment/question6/Main.java,2\2\22d0cac16f1a74d5a306122678cdc199997ace42
 x
 Hsrc/main/java/org/example/threads/assignment/question6/ThreadRunner.java,c\1\c1d0ff2d954dded98aa1e5191dc2168839151eb1
+p
+@src/main/java/org/example/threads/assignment/question7/Main.java,7\1\7171f7bc802aa9f9989a1eba1f745956a2e2b6c7
+w
+Gsrc/main/java/org/example/threads/assignment/question7/ArrayThread.java,4\2\427b4ec25b75e0a07e9932828463a5f44d3f91db
