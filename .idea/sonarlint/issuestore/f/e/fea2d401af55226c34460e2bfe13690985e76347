@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ñ½šçå1J$1a24f9da-cdaa-469b-8db1-1440c9507cca
+r	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8Æ“‰çå1J$24798959-680e-4e9d-a08d-c2d1d13950ad
+s
+java:S2446"0"notify" may not wake up the appropriate thread.(ëÊÍï8æÁ–çå1J$8b19ecd6-1df6-4e60-ad10-f7430a76daf0
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ç“‰çå1J$0cd8e0d6-07a7-42cf-a7b0-c32110731e5c
+}
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ÏÏ…®8û±˜çå1J$17ae7230-f869-4ef2-a2d9-33088366e5be
